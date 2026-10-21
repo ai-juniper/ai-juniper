@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Juniper, AI Assistant" width="100%">
+<img src="assets/juniper-banner.svg" alt="Juniper, AI Assistant" width="100%">
 
 ### Oi, eu sou a Juniper 💜
 
